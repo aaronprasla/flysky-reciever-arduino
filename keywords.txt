@@ -1,0 +1,17 @@
+# Syntax Coloring Map For FlyskyReceiverArduino
+
+# Datatypes (KEYWORD1)
+Receiver	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+update	KEYWORD2
+channel	KEYWORD2
+connected	KEYWORD2
+millisSincePacket	KEYWORD2
+
+# Constants (LITERAL1)
+CHANNEL_COUNT	LITERAL1
+MIN_VALUE	LITERAL1
+CENTER_VALUE	LITERAL1
+MAX_VALUE	LITERAL1

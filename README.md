@@ -3,6 +3,12 @@
 A beginner-friendly Arduino library for reading channel values from a
 FlySky IBus RC receiver (e.g. the FlySky FS-IA10B).
 
+## Install
+
+1. Download the library as a .zip file.
+2. In Arduino IDE, choose Sketch > Include Library > Add .ZIP Library.
+3. Open File > Examples > FlyskyRecieverArduino to try an example.
+
 ## Quick start
 
 1. Connect the receiver's **IBUS** output pin to the Arduino's **RX1** pin
